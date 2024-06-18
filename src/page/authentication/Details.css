@@ -1,0 +1,23 @@
+.pixel img{
+    width: 300px;
+    height: 300px;
+}
+.contant {
+    width: 700px;
+    height: 700px;
+    background: goldenrod;
+    color: black;
+    border-radius:  10px;
+    padding: 50px 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    /* margin-top: 100px; */
+    justify-content: center;
+    display: center;
+    align-items: center;
+    
+
+
+    
+    
+}
